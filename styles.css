@@ -1,0 +1,15 @@
+#map {
+    height: 100vh;
+}
+
+img.huechange { filter: hue-rotate(100deg); }
+
+
+.morado { filter: hue-rotate(90deg); }
+.rojo { filter: hue-rotate(150deg); }
+.naranja { filter: hue-rotate(170deg); }
+.amarilloOscuro { background-color: gold; }
+.amarillo { background-color: yellow; }
+.verdeApagado { filter: hue-rotate(230deg); }
+.verde { filter: hue-rotate(270deg); }
+.blanco { filter: grayscale(100%); }
